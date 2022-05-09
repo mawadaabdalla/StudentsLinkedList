@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ createList()
+comment1.params=
+comment1.target=void\ DestroyList()
+comment10.params=student
+comment10.target=boolean\ IsGraduate(Snode)
+comment11.params=key
+comment11.target=void\ PrintResults(int)
+comment2.params=
+comment2.target=boolean\ Emptylist()
+comment3.params=key
+comment3.target=void\ FindStudent(int)
+comment4.params=Key
+comment4.target=void\ InsertStudent(int)
+comment5.params=
+comment5.target=void\ PrintStudents()
+comment6.params=Key
+comment6.target=void\ DeleteStudent(int)
+comment7.params=Key
+comment7.target=void\ RetrieveStudent(int)
+comment8.params=Key
+comment8.target=void\ ModifyStudent(int)
+comment9.params=key
+comment9.target=void\ InsertResult(int)
+numComments=12
